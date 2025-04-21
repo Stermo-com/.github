@@ -1,12 +1,36 @@
-## Hi there 👋
+<img src="https://avatars.githubusercontent.com/u/208504237?s=200&v=4" width="100" align="center" />
 
-<!--
+# Stermo
 
-**Here are some ideas to get you started:**
+**Support infrastructure for digital makers.**
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+We build tools that help founders, tinkerers, and tiny teams do big things — support ticket system, wiki docs, email, and more. All without the bloat.
+
+> 😄 **Stermo is here to make your support smile.**
+
+---
+
+### ✅ Verified & Vibing
+
+- 🌐 [stermo.com](https://stermo.com)
+- 📬 [help@stermo.com](mailto:help@stermo.com)
+
+---
+
+### What We’re Working On
+
+- 📩 **Unified Support Inbox** — One place for all your support chaos.
+- 🧠 **Knowledgebase** — Markdown meets magic.
+- 🛠️ **Tiny Tools for Big Fixes** — Status pages, AI-prioritization, & more.
+
+---
+
+### Want to build with us?
+
+We believe support should be simple, fun, and actually work.
+
+If you’re a digital maker who wants to collaborate, contribute, or just say hi — reach out!
+
+---
+
+✨ _Let’s make support not suck._ ✨
